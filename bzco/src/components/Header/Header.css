@@ -8,8 +8,28 @@
     height: 10vh;
     position: sticky;
     top: 0;
+    
 }
 .name{
     font-size: 3rem;
     font-family: 'Tangerine', cursive;
 }
+.navs{
+    font-size: 1.7rem;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Noto Serif Telugu', serif;
+
+
+    
+    
+}
+.navs li{
+    padding: 10px;
+
+}
+.contact{
+    font-size: 1rem;
+}
+
