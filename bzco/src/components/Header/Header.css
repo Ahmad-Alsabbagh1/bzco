@@ -1,0 +1,15 @@
+
+.header{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(219, 215, 215);
+    width: 100vw;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+}
+.name{
+    font-size: 3rem;
+    font-family: 'Tangerine', cursive;
+}
