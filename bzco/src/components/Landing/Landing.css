@@ -1,0 +1,33 @@
+.landing-page {
+  display: flex;
+  flex-direction: column;
+}
+.sloganContainer {
+  display: flex;
+  width: 100vw;
+  height: 35vh;
+  justify-content: space-around;
+  align-items: center;
+}
+.slogan {
+  color: rgb(94, 167, 235);
+  font-family: "Mooli", sans-serif;
+}
+.sloganDescription {
+  font-size: 1.7rem;
+  width: 40vw;
+  font-family: "Mooli", sans-serif;
+  text-align: center;
+}
+.gallery {
+  width: 34vw;
+  align-self: center;
+}
+.gallery img {
+  object-fit: contain;
+  max-width: 320px;
+  border-radius: 5px;
+}
+.glassCleaning {
+  float: right;
+}
