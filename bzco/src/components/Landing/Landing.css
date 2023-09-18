@@ -4,21 +4,12 @@
 }
 .sloganContainer {
   display: flex;
-  width: 100vw;
+  max-width: 100vw;
   height: 35vh;
   justify-content: space-around;
   align-items: center;
 }
-.slogan {
-  color: rgb(94, 167, 235);
-  font-family: "Mooli", sans-serif;
-}
-.sloganDescription {
-  font-size: 1.7rem;
-  width: 40vw;
-  font-family: "Mooli", sans-serif;
-  text-align: center;
-}
+
 .gallery {
   width: 34vw;
   align-self: center;
@@ -30,4 +21,33 @@
 }
 .glassCleaning {
   float: right;
+}
+.sna {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  max-width: 100vw;
+  margin-top: 100px;
+  align-items: center;
+}
+
+.slogan,
+.snaH1 {
+  color: rgb(94, 167, 235);
+  font-family: "Mooli", sans-serif;
+}
+.sloganDescription,
+.snaP {
+  font-size: 1.7rem;
+  width: 40vw;
+  font-family: "Mooli", sans-serif;
+  text-align: center;
+}
+.snaLogo {
+  width: 30vw;
+  float: right;
+}
+.snaP {
+  margin-top: 70px;
 }
