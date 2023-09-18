@@ -4,6 +4,7 @@ import Header from "../components/Header/Header";
 import Slogan from "../components/Landing/Slogan";
 import Gallery from "../components/Landing/Gallery";
 import Sna from "../components/Landing/Sna";
+import Footer from "../components/Footer/Footer";
 
 const Landing = () => {
   return (
@@ -12,6 +13,7 @@ const Landing = () => {
       <Slogan />
       <Gallery />
       <Sna />
+      <Footer />
     </div>
   );
 };

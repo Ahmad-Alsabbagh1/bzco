@@ -1,0 +1,14 @@
+.footer {
+  max-width: 100vw;
+  height: 40vh;
+  margin-top: 80px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: rgb(9, 83, 153);
+}
+.footerH4 {
+  font-size: 2.3rem;
+}
