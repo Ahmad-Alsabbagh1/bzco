@@ -6,9 +6,23 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-between;
 
-  background-color: rgb(9, 83, 153);
+  background-color: rgb(94, 167, 235);
 }
 .footerH4 {
-  font-size: 2.3rem;
+  font-size: 2rem;
+  font-family: "Mooli", sans-serif;
+}
+.footerInfo {
+  display: flex;
+  width: 99vw;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.footerContact {
+  font-size: 1.3rem;
+  list-style-type: none;
+  margin-top: 30px;
 }
