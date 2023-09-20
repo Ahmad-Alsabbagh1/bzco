@@ -8,7 +8,7 @@ const FooterContact = () => {
       <li>2221AR Katwijk</li>
       <li>Telefoon: +31 6 23 21 35 66</li>
       <li>KVK-nummer: 89407628</li>
-      <li>info@bzco.nl</li>
+      <li>e-mail: info@bzco.nl</li>
     </div>
   );
 };
