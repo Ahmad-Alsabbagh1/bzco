@@ -4,8 +4,7 @@ import house from "../../assets/pictures/house.png";
 import company from "../../assets/pictures/company.png";
 import carpet from "../../assets/pictures/carpet.png";
 import window from "../../assets/pictures/window.png";
-import "./services.css";
-import Footer from "../Footer/Footer";
+
 const services = [
   {
     pic: house,
@@ -50,7 +49,6 @@ const Services = () => {
           </div>
         );
       })}
-      <Footer />
     </div>
   );
 };
