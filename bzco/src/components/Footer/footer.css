@@ -7,8 +7,10 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+  /* background-color: rgb(94, 167, 235);
+   */
 
-  background-color: rgb(94, 167, 235);
+  background-image: linear-gradient(rgb(66, 161, 223), rgb(27, 57, 209));
 }
 .footerH4 {
   font-size: 2rem;
