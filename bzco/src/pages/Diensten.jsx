@@ -9,7 +9,6 @@ const Diensten = () => {
   return (
     <div className="diensten">
       <Header />
-      <h1 className="onzeDiensten">Onze Diensten</h1>
       <Location />
       <Services />
 

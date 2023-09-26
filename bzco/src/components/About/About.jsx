@@ -1,8 +1,10 @@
 import React from "react";
+import questionsPic from "../../assets/pictures/19333428.jpg";
 
 const About = () => {
   return (
     <div className="about">
+      <img src={questionsPic} alt="questions" className="questionsPic" />
       <h4 className="aboutH4">
         Over BZ Co - Uw Professionele Schoonmaakpartner
       </h4>
