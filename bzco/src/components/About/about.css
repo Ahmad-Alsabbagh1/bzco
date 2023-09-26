@@ -1,0 +1,26 @@
+.about-page {
+  display: flex;
+  flex-direction: column;
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 60vw;
+  align-self: center;
+  margin-top: 50px;
+}
+.aboutH4 {
+  font-family: "Mooli", sans-serif;
+  margin-bottom: 5px;
+  margin-top: 20px;
+}
+.aboutInfo {
+  font-family: "Mooli", sans-serif;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.aboutLi {
+  font-family: "Mooli", sans-serif;
+  margin: 5px;
+}
