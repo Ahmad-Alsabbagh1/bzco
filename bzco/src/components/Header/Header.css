@@ -52,12 +52,12 @@
   }
   .navContainer {
     align-self: flex-start;
-    width: 100vw;
+    max-width: 100vw;
     margin-left: 0;
   }
   .navs {
     font-size: 1rem;
-    width: 100vw;
+    width: 90vw;
     justify-content: center;
   }
 }

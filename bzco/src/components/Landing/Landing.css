@@ -57,5 +57,40 @@
 }
 
 @media (max-width: 768px) {
-  /* Your CSS rules for small screens here */
+  .sloganContainer {
+    height: 30vh;
+    padding: 10px;
+  }
+  .slogan,
+  .sloganDescription,
+  .snaP {
+    font-size: 0.9rem;
+  }
+  .sloganDescription {
+    width: 45vw;
+  }
+
+  .gallery {
+    width: 65vw;
+  }
+  .gallery img {
+    width: 30vw;
+  }
+  .mirrorCleaning {
+    margin-top: 6px;
+  }
+
+  .sna {
+    margin-top: 50px;
+  }
+  .snaH1 {
+    font-size: 1.5rem;
+  }
+  .snaLogo {
+    width: 80vw;
+  }
+  .snaP {
+    margin-top: 40px;
+    width: 70vw;
+  }
 }
