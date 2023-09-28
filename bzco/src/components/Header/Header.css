@@ -35,11 +35,15 @@
   background-color: rgba(44, 30, 233, 0.13);
   font-weight: bold;
 }
+.navs a:hover {
+  color: white;
+}
 
 @media (max-width: 768px) {
   /* Your CSS rules for small screens here */
   .header {
-    height: 17vh;
+    padding: 15px;
+    height: fit-content;
     flex-direction: column;
   }
 
