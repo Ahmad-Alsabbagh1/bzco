@@ -16,7 +16,7 @@
 }
 .gallery img {
   object-fit: contain;
-  width: 15vw;
+  width: 17vw;
   max-width: 320px;
   border-radius: 5px;
 }
@@ -54,4 +54,8 @@
 }
 .snaP {
   margin-top: 70px;
+}
+
+@media (max-width: 768px) {
+  /* Your CSS rules for small screens here */
 }

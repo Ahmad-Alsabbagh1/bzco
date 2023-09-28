@@ -11,7 +11,6 @@ const Diensten = () => {
       <Header />
       <Location />
       <Services />
-
       <Footer />
     </div>
   );
