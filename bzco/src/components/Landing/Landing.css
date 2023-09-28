@@ -72,6 +72,7 @@
 
   .gallery {
     width: 65vw;
+    margin-top: 10px;
   }
   .gallery img {
     width: 30vw;
