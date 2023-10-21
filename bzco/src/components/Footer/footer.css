@@ -28,15 +28,19 @@
 @media (max-width: 768px) {
   .footer {
     padding: 10px;
-    height: 45vh;
+    height: 35vh;
   }
   .footerH4 {
     font-size: 1.2rem;
-    width: 90vw;
+    width: 60vw;
+    align-self: flex-start;
   }
   .footerContact {
     margin-top: 0px;
-    font-size: 1.1rem;
+    position: relative;
+    top: -100px;
+    left: -50px;
+    font-size: 1rem;
     justify-content: center;
     text-align: center;
   }

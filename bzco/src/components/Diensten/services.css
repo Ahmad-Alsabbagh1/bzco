@@ -57,3 +57,18 @@
   font-size: 1.2rem;
   text-align: center;
 }
+@media (max-width: 768px) {
+  .location {
+    margin: 25px;
+  }
+  .locationP {
+    width: 90vw;
+  }
+  .service {
+    width: 50vw;
+  }
+  .serviceImg {
+    width: 15vw;
+    min-width: 50px;
+  }
+}

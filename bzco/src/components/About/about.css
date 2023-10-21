@@ -28,3 +28,8 @@
   width: 30vw;
   align-self: center;
 }
+@media (max-width: 768px) {
+  .questionsPic {
+    width: 50vw;
+  }
+}
